@@ -1,0 +1,10 @@
+{
+  "name": "Cardano Sparrow Watch",
+  "short_name": "Sparrow Watch",
+  "description": "Cardano 多签只读观察钱包",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101a2b",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
